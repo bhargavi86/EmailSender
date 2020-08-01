@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\EmailSender.csproj": {}
+    "D:\\My Projects\\GitHub\\EmailSender\\EmailSender.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\EmailSender.csproj": {
+    "D:\\My Projects\\GitHub\\EmailSender\\EmailSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\EmailSender.csproj",
+        "projectUniqueName": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender.csproj",
         "projectName": "EmailSender",
-        "projectPath": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\EmailSender.csproj",
+        "projectPath": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender.csproj",
         "packagesPath": "C:\\Users\\Bhargavi\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\obj\\",
+        "outputPath": "D:\\My Projects\\GitHub\\EmailSender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bhargavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.6.2, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.19.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

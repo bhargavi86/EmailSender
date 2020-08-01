@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNjz6izFgcR7Dr3UMcMe4y4ngHxXolT0j8BSHGHvY9fPMLPA4rawQAYz3/Z2QsnuJWboDxCuwN0mL4ZJ2yr4eQ==",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\GitHub\\EmailSender\\EmailSender\\EmailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bhargavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
